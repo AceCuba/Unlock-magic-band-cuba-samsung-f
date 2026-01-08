@@ -1,0 +1,10 @@
+Install adb 
+Use cmd to accses and browse adb shell 
+C:\ADB>adb shell
+then run this comand :
+
+settings put system lock_application_shortcut '1;com.samsung.android.app.telephonyui/.hiddennetworksetting.MainActivity;1;com.sec.android.app.camera/com.sec.android.app.camera.Camera;'
+ty;1;com.sec.android.app.camera/com.sec.android.app.camera.Camera;'settings put system lock_application_shortcut '1;com.ity;1;com.sec.android.app.camera/com.sec.android.app.camera.Camera;'
+
+Seledct prefect band 
+1
