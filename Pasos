@@ -1,6 +1,10 @@
 Install adb 
-Use cmd to accses and browse adb shell 
+Use cmd to accses and browse ( use cd comand ) adb shell 
 C:\ADB>adb shell
+
+it should  lock like this 
+a25x:/ $ a15x:/ $ a16x:/ $ 
+
 then run this comand :
 
 settings put system lock_application_shortcut '1;com.samsung.android.app.telephonyui/.hiddennetworksetting.MainActivity;1;com.sec.android.app.camera/com.sec.android.app.camera.Camera;'
